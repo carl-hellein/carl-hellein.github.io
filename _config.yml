@@ -10,7 +10,6 @@ defaults:
     values:
       layout: "posts"
       author: "Carl"
-
   -
     scope:
       path: ""
