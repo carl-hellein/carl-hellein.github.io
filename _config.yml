@@ -1,3 +1,20 @@
 theme: jekyll-theme-minimal
 title: Carl Hellein
 description: Personal Github page.
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "posts"
+      author: "Carl"
+
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "pages"
+
