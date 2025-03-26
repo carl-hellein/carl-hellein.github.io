@@ -1,7 +1,3 @@
----
-layout: pages
----
-
 # Various Projects I am working on
 
 - Mixing together some Blender shaders and compositor styles.
