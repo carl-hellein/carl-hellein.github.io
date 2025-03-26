@@ -8,12 +8,11 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "posts"
       author: "Carl"
   -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "pages"
+      author: "Carl"
 
