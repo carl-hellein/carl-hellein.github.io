@@ -9,6 +9,7 @@ defaults:
       type: "posts"
     values:
       author: "Carl"
+      excerpt_separator: <!--more-->
   -
     scope:
       path: ""
